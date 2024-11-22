@@ -1,23 +1,33 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    '★Matemática★',
+    'Qual é a fórmula da área de um círculo?',
+    'A = πr², onde r é o raio do círculo.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    '★Português★',
+    'O que é uma metáfora?',
+    'Uma metáfora é uma figura de linguagem que estabelece uma comparação implícita entre dois elementos sem usar conectivos comparativos como "como" ou "parecido com".'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    '★História★',
+    'Em que ano ocorreu a Proclamação da República no Brasil?',
+    'A Proclamação da República ocorreu em 15 de novembro de 1889.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    '★Geografia★',
+    'O que são placas tectônicas?',
+    'Placas tectônicas são grandes blocos que formam a camada externa sólida da Terra (litosfera) e que se movem sobre o manto terrestre.'
+)
+criaCartao(
+    '★Biologia★',
+    'Qual é a função das mitocôndrias nas células?',
+    'As mitocôndrias são responsáveis pela produção de energia na forma de ATP por meio da respiração celular.'
+)
+criaCartao(
+    '★Física★',
+    'Qual é a fórmula para calcular a velocidade média?',
+    'Velocidade média (v) = distância total percorrida (d) ÷ tempo total (t).'
 )
